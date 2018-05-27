@@ -10,7 +10,7 @@ We will play a game similar to "Mad Libs" using Git. In this game, each player w
 ## Planning  
 
 ## Action  
- [enter an action].  
+ [Wave your hands in the air like you just don't care].  
 ## Outcome  
 
 ## Conclusion
